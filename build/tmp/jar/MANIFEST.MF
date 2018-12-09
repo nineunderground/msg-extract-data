@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Build-Timestamp: 2018-12-09T13:58:17.141+0200
-Built-By: inaki
-Build-Revision: 1.0
-Build-OS: Mac OS X x86_64 10.14
-Created-By: Gradle 4.10.2
-Build-Jdk: 1.8.0_73 (Oracle Corporation 25.73-b02)
-Main-Class: org.nineunderground.main.Main
-
